@@ -4,7 +4,7 @@ This repository contains a **React-based Nike landing page** created to practice
 
 ![Image](https://github.com/user-attachments/assets/75a00fb9-5550-418f-848d-1cfe0d719e7a)
 
-ou can check out the live version of the template here: [Nike Landing Page](https://boisterous-souffle-bb77a9.netlify.app)
+ou can check out the live version of the template here: [Nike Landing Page]([https://boisterous-souffle-bb77a9.netlify.app](https://nike-lapage.netlify.app))
 
 ## Features
 
